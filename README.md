@@ -5,13 +5,13 @@
        public class DersOrnek {
 
     public static void main(String[] args) {
-        // Degiskenleri olustur
+        
         int mat, fizik, kimya, turkce, tarih, muzik;
 
-                //Scanner sınıfımızı tamamladık
+                
         Scanner inp = new Scanner(System.in);
 
-        // Kullanıcıdan değerleri al
+        
         System.out.print("Matematik Notunuz : ");
         mat = inp.nextInt();
 
